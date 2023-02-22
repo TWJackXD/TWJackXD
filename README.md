@@ -1,5 +1,5 @@
 <h1 align="center">哈囉大家好，我是呆呆！</h1>
-是個啥都不會的87
+<span align="center">是個啥都不會的87</span>
 <hr>
 
 <p align="center">
