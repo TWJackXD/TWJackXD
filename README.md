@@ -1,4 +1,4 @@
-![](https://github.com/TWJackXD/TWJackXD/blob/main/img/banner.png?raw=true)
+![](https://raw.githubusercontent.com/TWJackXD/TWJackXD/refs/heads/main/img/banner.png)
 
 # 哈囉大家好，我是呆呆！👋
 
